@@ -3,7 +3,6 @@ import './App.css';
 
 function shakespeareify(text) {
   const replacements = {
-{
   "you": "thou",
   "your": "thy",
   "yours": "thine",
@@ -66,8 +65,7 @@ function shakespeareify(text) {
   "always": "forevermore",
   "never": "ne'er"
 }
-
-  };
+;
 
   return text.split(" ").map(word => {
     const lower = word.toLowerCase();
