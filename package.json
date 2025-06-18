@@ -1,7 +1,7 @@
 {
   "name": "shakespeareify",
   "version": "1.0.0",
-  "homepage": "https://hardik0604.github.io/Shakespeary",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
