@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Georgia', serif;
+  background-color: #fdf5e6;
+  color: #4b3f2f;
+  text-align: center;
+}
+
+.App {
+  padding: 2rem;
+}
+
+textarea {
+  width: 80%;
+  height: 100px;
+  font-size: 1.2rem;
+  font-family: 'Georgia', serif;
+  padding: 10px;
+  margin-top: 1rem;
+  border: 2px solid #bfa76f;
+  background-color: #fffaf0;
+}
+
+button {
+  margin-top: 1rem;
+  font-size: 1.2rem;
+  padding: 10px 20px;
+  background-color: #decba4;
+  border: none;
+  cursor: pointer;
+}
+
+.translated {
+  margin-top: 2rem;
+  font-size: 1.5rem;
+  font-style: italic;
+}
